@@ -288,8 +288,8 @@ footer .redes a
 
 #nosotros
 {
-	background-image: url(img/latas.jpg);
-	background-size: cover;;
+	background-image: url(../img/latas.jpg);
+	background-size: cover;
 
 }
 
@@ -306,10 +306,6 @@ footer .redes a
 	border: 1px solid grey;
 }
 
-#servicios .bloque-servicio .bloque-img-servicio
-{
-
-}
 
 #servicios .bloque-servicio .bloque-img-servicio img
 {
