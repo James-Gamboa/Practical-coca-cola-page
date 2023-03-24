@@ -1,1 +1,1 @@
-GithubPages :https://james-gamboa.github.io/Practical-coca-cola-page/
+GithubPages : https://james-gamboa.github.io/Practical-coca-cola-page/
